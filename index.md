@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+**This site is created to provide clear information about the concepts**
 
 [Link to another page](./another-page.html).
 
